@@ -10,7 +10,7 @@
 ##  💻 Sobre o projeto
 
   
-🔧 Semana Front End Mundo Invertido - A semana Front End foi um projeto de criação de Landing Pages para desenvolver um site temático de Stranger Things em que ao clicar no botão "Inverter Mundos" eles vai para o Upside Down. O outro foco foi ensinar como fazer o formulário para participar do clube de D&D e colocar em um banco de dados. 
+🔧 Semana Front End Mundo Invertido - A semana Front End foi um projeto de criação de Landing Pages para desenvolver um site temático de Stranger Things em que ao clicar no botão "Inverter Mundos" ele vai para o Upside Down. O outro foco foi ensinar como fazer o formulário para participar do clube de D&D e colocar em um banco de dados. 
 
   
 
