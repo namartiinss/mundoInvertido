@@ -1,7 +1,7 @@
 
 <h1 align="center">Semana Front End - Mundo Invertio DIO</h1>
 
-<img src="./assets/readme/bannerHome.png" />
+<img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/bannerHome.png?raw=true" />
 
 </h1>
 
@@ -26,14 +26,37 @@ Live 03 - Foi um bate papo bem interessante sobre React vs Angular, na qual são
 ##  🎨 Layout
 O layout do Site Mundo Invertido é divertido por duas partes.
 
-Parte 1 é o mundo normal onde o layout tem cores claras, imagens posicionadas em pé e a musica é a abertura da série.
+ <br>
+ <br> 
+
+### Parte 1 é o mundo normal onde o layout tem cores claras, imagens posicionadas em pé e a musica é a abertura da série.
+
+ <br>
+ <br> 
 
 <img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/mundoInvertido.png?raw=true">
 
-  
-Parte 2 após pressionar o "Inverter Mundos" o site muda de cor, muda o tema da música, e as imagens são posicionadas de cabeça para baixo como é na série. Também ocorre uma mudança nas fontes que que dão um toque de suspense no layout.
+<img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/sobreUpsideDown.png?raw=true">
 
-<img src="">
+<img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/galeriaNormal.png?raw=true">
+
+<img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/formulario.png?raw=true">
+
+ <br>
+ <br> 
+ 
+### Parte 2 após pressionar o "Inverter Mundos" o site muda de cor, muda o tema da música, e as imagens são posicionadas de cabeça para baixo como é na série. Também ocorre uma mudança nas fontes que que dão um toque de suspense no layout.
+
+ <br>
+ <br> 
+
+<img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/bannerInvertido.png?raw=true">
+
+<img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/sobreUpsideDown-invertido.png?raw=true">
+
+<img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/galleriaInvertida.png?raw=true">
+
+<img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/formularioInvertido.png?raw=true">
 
 ###  Web
 
@@ -59,39 +82,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - JavaScript
 
-- [Bootstrap](https://getbootstrap.com/) link do firebase
-
-  
-##  🚀 Como executar o projeto
-
-  
-<p>O primeiro passo é fazer o download do repositório para a sua máquina</p>
-<div align="center">
-  <img align="center" alt="projeto baixada" src="https://github.com/erosMariano/teste-tecnico-GRUPO-SOITIC/blob/main/Loki-Template/public/assets/img/instalacao/clone-1.png">
-
-</div>
-
-
-<p>Extrair o repositório </p>
-<div align="center">
-  <img align="center" alt="projeto extraido" src="https://github.com/erosMariano/teste-tecnico-GRUPO-SOITIC/blob/main/Loki-Template/public/assets/img/instalacao/extracao.png"> 
-</div>
-
-
-
-<p>Clicar duas vezes  na pasta "Loki-Template"</p>
-<div align="center">
-  <img align="center" alt="Clicar na pasta Loki-Template" src="https://github.com/erosMariano/teste-tecnico-GRUPO-SOITIC/blob/main/Loki-Template/public/assets/img/instalacao/pasta-loki.png"> 
-</div>
-
-
-
-<p>Clicar duas vezes no index.html</p>
-<div align="center">
-    <img alt="projeto extraido" src="https://github.com/erosMariano/teste-tecnico-GRUPO-SOITIC/blob/main/Loki-Template/public/assets/img/instalacao/index.png">   
-</div>
+- [Firebase](https://firebase.google.com/)
 
 ##  📝 Licença
 
-Feito com 💚 por Eros Mariano 👋🏽 [Entre em contato!](https://www.linkedin.com/in/erosmariano/)
+Feito com 💚 por Nathália Martins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/nathalia-martinss-dev/)
   
