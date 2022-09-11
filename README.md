@@ -29,7 +29,7 @@ O layout do Site Mundo Invertido é divertido por duas partes.
 Parte 1 é o mundo normal onde o layout tem cores claras, imagens posicionadas em pé e a musica é a abertura da série.
 
 <img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/mundoInvertido.png?raw=true">
-<img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/sobreUpsideDown.png?raw=true">
+
   
 Parte 2 após pressionar o "Inverter Mundos" o site muda de cor, muda o tema da música, e as imagens são posicionadas de cabeça para baixo como é na série. Também ocorre uma mudança nas fontes que que dão um toque de suspense no layout.
 
