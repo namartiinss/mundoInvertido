@@ -20,7 +20,7 @@ As foram separadas por partes:
 
 - Live 02: Voltada somente para o JavaScript em manipulação de DOM, onde fizemos a funcionalidade de ativar a musia do site, o botão "Inverter Mundos" e o Formulário do Clube de D&D. Também foi ensinado como usar o banco de dados Firebase do Google.
 
-Live 03 - Foi um bate papo bem interessante sobre React vs Angular, na qual são as duas áreas onde quero atuar.
+- Live 03 - Foi um bate papo bem interessante sobre React vs Angular, na qual são as duas áreas onde quero atuar.
 
 
 ##  🎨 Layout
