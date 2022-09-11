@@ -14,19 +14,18 @@
 
   
 
-As foram separadas por partes:
+As lives foram separadas por partes:
 
 - Live 01: Foi toda voltada ao HTML5 e CSS3, fizemos todo o desenvolvimento do CSS3 utilizando as propriedades do Flexbox.
 
-- Live 02: Voltada somente para o JavaScript em manipulação de DOM, onde fizemos a funcionalidade de ativar a musia do site, o botão "Inverter Mundos" e o Formulário do Clube de D&D. Também foi ensinado como usar o banco de dados Firebase do Google.
+- Live 02: Voltada somente para o JavaScript em manipulação de DOM, onde fizemos a funcionalidade de ativar a musica do site, o botão "Inverter Mundos" e o Formulário do Clube de D&D. Também foi ensinado como usar o banco de dados Firebase do Google.
 
-- Live 03 - Foi um bate papo bem interessante sobre React vs Angular, na qual são as duas áreas onde quero atuar.
+- Live 03: Foi um bate papo bem interessante sobre React vs Angular.
 
 
 ##  🎨 Layout
-O layout do Site Mundo Invertido é divertido por duas partes.
+O layout do Site Mundo Invertido é dividido por duas partes.
 
- <br>
  <br> 
 
 ### Parte 1 é o mundo normal onde o layout tem cores claras, imagens posicionadas em pé e a musica é a abertura da série.
@@ -57,16 +56,6 @@ O layout do Site Mundo Invertido é divertido por duas partes.
 <img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/galleriaInvertida.png?raw=true">
 
 <img src="https://github.com/namartiinss/mundoInvertido/blob/master/assets/images/readme/formularioInvertido.png?raw=true">
-
-###  Web
-
-  
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-
-<img src="https://github.com/erosMariano/teste-tecnico-GRUPO-SOITIC/blob/main/Desktop.png" width="400px">
-
-</p>
 
 
 ##  🛠 Tecnologias
