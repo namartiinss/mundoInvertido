@@ -20,5 +20,3 @@ btnSubscribe.addEventListener('click', async () => {
    const subscriptionId = await subscribeToHellfireClube(subscription)
    console.log(`Inscrito com sucesso: ${subscriptionId}`)
 })
-
-console.log('Entrei')
